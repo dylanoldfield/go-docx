@@ -2,9 +2,9 @@
 
 <p align="center">
 
-[![tests](https://github.com/lukasjarosch/go-docx/workflows/test/badge.svg)](https://github.com/lukasjarosch/go-docx/actions?query=workflow%3Atest)
-[![goreport](https://goreportcard.com/badge/github.com/lukasjarosch/go-docx)](https://goreportcard.com/report/github.com/lukasjarosch/go-docx)
-[![GoDoc reference ](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/lukasjarosch/go-docx)
+[![tests](https://github.com/dylanoldfield/go-docx/workflows/test/badge.svg)](https://github.com/dylanoldfield/go-docx/actions?query=workflow%3Atest)
+[![goreport](https://goreportcard.com/badge/github.com/dylanoldfield/go-docx)](https://goreportcard.com/report/github.com/dylanoldfield/go-docx)
+[![GoDoc reference ](https://img.shields.io/badge/godoc-reference-blue.svg)](https://pkg.go.dev/github.com/dylanoldfield/go-docx)
 
 </p>
 
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/lukasjarosch/go-docx/blob/refactoring/screenshot.png" alt="Example" width="900" />
+  <img src="https://github.com/dylanoldfield/go-docx/blob/refactoring/screenshot.png" alt="Example" width="900" />
 </p>
 
 
@@ -29,11 +29,17 @@
 ---
 
 ### Table of Contents
-- [Purpose](#-purpose)
-- [Getting Started](#-getting-started)
-- [Terminology](#-terminology)
-- [How it works](#-how-it-works)
-- [License](#-license)
+- [Table of Contents](#table-of-contents)
+- [➤ Purpose](#-purpose)
+- [➤ Getting Started](#-getting-started)
+	- [Placholders](#placholders)
+	- [Styling](#styling)
+- [➤ Terminology](#-terminology)
+- [➤ How it works](#-how-it-works)
+	- [Overview](#overview)
+	- [Premises](#premises)
+	- [Order of operations](#order-of-operations)
+- [➤ License](#-license)
 
 ---
 
